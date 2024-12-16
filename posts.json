@@ -1,27 +1,27 @@
 {
     "posts": [
         { 
-            "id": "https://htetmyathlaing.medium.com/query-method-in-laravel-eloquent-model-6c992daab064", 
+            "id": "query-method-in-laravel-eloquent-model-6c992daab064", 
             "title": "query() method in Laravel Eloquent Model",
             "created_at": "Aug 1, 2023"
         },
         { 
-            "id": "https://htetmyathlaing.medium.com/vue-ရဲ့-reactivity-system-ဘယ်လို-အလုပ်သလဲဆိုတော့-4aed966a40b5", 
+            "id": "vue-ရဲ့-reactivity-system-ဘယ်လို-အလုပ်သလဲဆိုတော့-4aed966a40b5", 
             "title": "Vue ရဲ့ reactivity system ဘယ်လို အလုပ်သလဲ",
             "created_at": "Jan 21, 2020"
         },
         { 
-            "id": "https://htetmyathlaing.medium.com/တကယ်လို့-ကိုယ်က-developer-တစ်ယောက်-ဒါမှမဟုတ်-ကွန်ပျူတာ-ကျောင်းသားတစ်ယောက်ဆိုရင်-github-ကို-မသိဘဲ-ea83c313bbe4", 
+            "id": "တကယ်လို့-ကိုယ်က-developer-တစ်ယောက်-ဒါမှမဟုတ်-ကွန်ပျူတာ-ကျောင်းသားတစ်ယောက်ဆိုရင်-github-ကို-မသိဘဲ-ea83c313bbe4", 
             "title": "GitHub Student Developer Pack",
             "created_at": "Sep 7, 2019"
         },
         { 
-            "id": "https://htetmyathlaing.medium.com/classification-in-data-mining-part-ii-22490b454a37", 
+            "id": "classification-in-data-mining-part-ii-22490b454a37", 
             "title": "Classification in Data Mining Part II",
             "created_at": "Mar 11, 2019"
         },
         { 
-            "id": "https://htetmyathlaing.medium.com/classification-in-data-mining-part-i-b7d085213bb8", 
+            "id": "classification-in-data-mining-part-i-b7d085213bb8", 
             "title": "Classification in Data Mining Part I",
             "created_at": "Mar 11, 2019"
         },
