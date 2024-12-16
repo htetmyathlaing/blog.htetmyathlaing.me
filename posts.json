@@ -1,4 +1,4 @@
-[
+{
     { 
       "id": "https://htetmyathlaing.medium.com/query-method-in-laravel-eloquent-model-6c992daab064", 
       "title": "query() method in Laravel Eloquent Model",
@@ -33,5 +33,5 @@
         "id": "javascript-မှာရှိတဲ့-closure-အကြောင်း-တစေ့တစောင်း-939526b9c558", 
         "title": "JavaScript မှာရှိတဲ့ Closure အကြောင်း တစေ့တစောင်း",
         "created_at": "Apr 16, 2018"
-      },
-  ]
+    },
+}
